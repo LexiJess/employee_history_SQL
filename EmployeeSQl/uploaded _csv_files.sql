@@ -1,1 +1,3 @@
-uploaded the csv files. 
+SELECT * FROM managers
+
+

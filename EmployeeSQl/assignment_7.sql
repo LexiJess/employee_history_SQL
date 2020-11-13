@@ -1,4 +1,4 @@
---List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
+--#7 List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
 SELECT "Data_Employees".emp_no, "Data_Employees".last_name, "Data_Employees".first_name, "Data_Departments".dept_name
 FROM "Data_Employees" JOIN "Dept_employees"
